@@ -1,5 +1,4 @@
 ## Hi there! I'm lateefat
-![My sunset banner](./assets/media/banner.jpeg)
 ## About Me
 I am a student currently diving into the world of Software Development. While my journey began with a strong interest in the analytical side of technology, I am now focused on mastering the building blocks of the web: **HTML, CSS, and JavaScript**. I have a background in technical writing, which helps me bridge the gap between complex code and clear communication. I believe that understanding how software is built from the ground up is the best way to eventually secure and analyze it.
 
