@@ -1,10 +1,20 @@
 ## Hi there! I'm lateefat
+I'm a Software Development student, building my skills in web development and software development through hands-on projects.
 ## About Me
-I am a student currently diving into the world of Software Development. While my journey began with a strong interest in the analytical side of technology, I am now focused on mastering the building blocks of the web: **HTML, CSS, and JavaScript**. I have a background in technical writing, which helps me bridge the gap between complex code and clear communication. I believe that understanding how software is built from the ground up is the best way to eventually secure and analyze it.
+I am currently developing my skills in HTML, CSS, JavaScript, C#, ASP.NET Core, SQL, APIs, and software testing. Through my coursework, I have worked on websites, web applications, APIs, databases, and testing projects.
 
-My ultimate career goal is to transition into **Cybersecurity or Business Analysis**, where I can use my development skills to protect data and optimize systems. When I’m not at my computer, I’m usually practicing nature photography or working on a crochet project. I find that the patience required for crocheting is a lot like debugging code; it’s all about attention to detail and creating something beautiful from scratch!
+I enjoy learning by building practical projects and improving my understanding of how applications work. I am especially interested in web development and continuing to grow my technical skills through real-world projects and experience.
+
+I also have a background in client service and office administration, which has helped me develop strong communication, teamwork, problem-solving, organization, and customer service skills.
+
+I am currently looking for opportunities where I can gain practical technology experience, continue learning, and contribute to a team.
+
 ## Skills
 * **Languages:** HTML, CSS, JavaScript
+* **Web & Backend:** ASP.NET Core, REST APIs
+* **Database:** SQL
+* **Testing:** Unit Testing
+* **Tools:** Git, GitHub, Visual Studio
 * **Professional:** Technical Writing, Business Analysis
 * **Hobbies:** Nature Photography, Crochet, Baking, Puzzle Solving
 ## My Statistics
